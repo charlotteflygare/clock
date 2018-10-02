@@ -30,7 +30,7 @@ class Clock extends React.Component {
           <h1>Hello, world!</h1>
           <h2>It is {this.state.time.toLocaleTimeString()}.</h2>
         <div className="Buttons">
-          <button onClick={this.componentWillUnmount}>Paus me</button>
+          <button onClick={this.componentWillUnmount}>Pause me</button>
           <button onClick={this.componentDidMount}>Start me</button>
         </div>
       </div>

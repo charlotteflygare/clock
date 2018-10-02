@@ -3,6 +3,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #7cb4ba;
 }
 
 h1, h2 {
@@ -15,9 +16,8 @@ h1 {
 }
 
 button {
-  background: none;
-  border: 1px solid black;
-  position: relative;
+  background: #ffffff;
+  border: 1px solid #ffffff;
   margin: 10px;
   height: 30px;
   width: 90px;
